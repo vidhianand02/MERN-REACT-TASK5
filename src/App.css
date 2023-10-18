@@ -1,0 +1,25 @@
+.App {
+  display: grid;
+  place-content: center;
+  text-align: center;
+  height: 100vh;
+}
+
+.App input {
+  margin-bottom: 10px;
+  border: 2px solid #d1d1d1;
+  border-radius: 3px;
+  padding: 0.3rem;
+  width: 18rem;
+}
+
+.App button {
+  background: #007bff;
+  color: white;
+  border: none;
+  border-radius: 10px;
+  padding: 0.5rem;
+  width: 8rem;
+  margin: 0 auto;
+  cursor: pointer;
+}
